@@ -1,8 +1,13 @@
 Apples
 Lemons
+Oranges
 Bananas
 Corn
+<<<<<<< HEAD
 Cat and Dog Food
+=======
+More Dog Food
+>>>>>>> bf114484a3b6b3e1fa7cb037126986fc78e34c89
 Cereal
 Bread
 Milk
